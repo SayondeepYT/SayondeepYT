@@ -15,13 +15,13 @@ Hello! My name is <b>Sayondeep Ghosh</b>. I'm a self-driven developer with a str
 <br><br>
 🔭 I’m currently working on building my skills in full-stack development.
 <br>
-🌱 I’m currently learning <b>Next.js, TypeScript, and DevOps practices</b>.
+🌱 I’m currently learning <b>C ,C++ and Kotlin</b>.
 <br>
-💬 Ask me about <b>React, JavaScript, Node.js, and CSS</b>.
+💬 Ask me about <b>, JavaScript, and CSS</b>.
 <br>
 📫 How to reach me: You can connect with me via my social links below!
 <br>
-⚡ Fun fact: <b>[Add a fun fact about yourself here!]</b>
+⚡ Fun fact: <b>I have a YouTube channel visit there of you have a chance.</b>
 </p>
 
 <br clear="left"/> <!-- This clears the floating image -->
@@ -39,27 +39,16 @@ Hello! My name is <b>Sayondeep Ghosh</b>. I'm a self-driven developer with a str
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  </a>
 </p>
-
----
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -80,7 +69,7 @@ Hello! My name is <b>Sayondeep Ghosh</b>. I'm a self-driven developer with a str
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Sayondeep's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SayondeepYT&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Sayondeep's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayondeepYT&layout=compact&langs_count=8&theme=dracula" alt="Top Languages" />
 </p>
